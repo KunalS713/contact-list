@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Hosted URL --  https://kunals713.github.io/contact-list/
+
 ## Available Scripts
 
 In the project directory, you can run:
